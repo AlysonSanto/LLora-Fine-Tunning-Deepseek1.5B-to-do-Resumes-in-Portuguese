@@ -1,7 +1,7 @@
 # LLora-Fine-Tuning-DeepSeek1.5B-to-do-Resumes-in-Portuguese
 This project fine-tunes the DeepSeek 1.5B model using LoRA (Low-Rank Adaptation) to create an AI capable of analyzing job postings and adapting Portuguese resumes, highlighting relevant skills, experiences, and keywords.
 
-Link to code: https://colab.research.google.com/gist/AlysonSanto/3888dcad5eda0948621951eda0094974/llm_llora.ipynb
+Link to code: https://colab.research.google.com/drive/14xWo-i2Aj2FoBUTzqm09YsECGz5mmMIp?usp=sharing
 
 📌 Purpose
 The main goal is to help job seekers by automatically tailoring their resumes to match a job description, increasing the chances of passing recruitment processes.
